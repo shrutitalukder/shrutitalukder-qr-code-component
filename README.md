@@ -1,1 +1,1 @@
-# shrutitalukder-qr-code-component
+# qr-code-component
